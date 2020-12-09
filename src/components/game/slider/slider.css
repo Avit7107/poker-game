@@ -1,0 +1,60 @@
+.sliderParent {
+    position: relative;
+    width: 301px;
+    top: 21px;
+    float: right;
+    height: 96px;
+    background-color: rgb(0, 11, 18);
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid rgb(57, 62, 69);
+  }
+  
+  .slider {
+    background-color: rgb(100, 93, 94);
+    border-radius: 10px;
+    position: absolute;
+    top: 61px;
+    left: 24px;
+    width: 251px;
+    height: 17px;
+  }
+  .example-thumb-0,
+  .example-thumb-2 {
+    visibility: hidden;
+  }
+  .example-thumb-1 {
+    background-color: rgb(4, 34, 42);
+    color: rgb(126, 149, 159);
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  .fold {
+    position: absolute;
+    height: 50px;
+    width: 20px;
+    color: blue;
+    font-weight: 500;
+    top: 6px;
+    font-size: 19px;
+    left: 30px;
+  }
+  .call {
+    position: absolute;
+    width: 29px;
+    color: rgb(42, 106, 84);
+    font-weight: 700;
+    top: 6px;
+    left: 117px;
+    font-size: 19px;
+  }
+  .raiseTo {
+    position: absolute;
+    width: 74px;
+    color: gold;
+    font-weight: 500;
+    left: 182px;
+    top: 6px;
+    font-size: 19px;
+  }

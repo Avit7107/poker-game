@@ -1,0 +1,58 @@
+.table {
+  background-image: url(/images/50.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+.tabelImg {
+  position: relative;
+  background-image: url(/images/table.png);
+  width: 1016px;
+  height: 100%;
+  background-position: top;
+  background-size: cover;
+  margin: auto;
+  margin-top: -52px;
+}
+.p1 {
+  text-align: center;
+  position: absolute;
+  width: 90px;
+  left: 855px;
+  top: 376px;
+}
+
+.p2 {
+  text-align: center;
+  position: absolute;
+  width: 90px;
+  left: 639px;
+  top: 483px;
+}
+.p2 img {
+  width: 48px;
+  height: 48px;
+}
+.p3 {
+  text-align: center;
+  position: absolute;
+  width: 90px;
+  left: 324px;
+  top: 501px;
+}
+
+.p4 {
+  text-align: center;
+  position: absolute;
+  width: 90px;
+  left: 78px;
+  top: 379px;
+}
+
+.p5 {
+  text-align: center;
+  position: absolute;
+  width: 90px;
+  left: -8px;
+  top: 200px;
+}
